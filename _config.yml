@@ -14,8 +14,8 @@ description: >-
   dan informasi seputar teknologi, blogging, dan kehidupan sehari-hari.
 
 # URL utama blog
-url: "https://bolometu.com"
-baseurl: ""   # kosong karena pakai domain custom
+url: "https://bloghugo.github.io"
+baseurl: "/jekyll-pribadi"
 
 # Profil akun
 github:
